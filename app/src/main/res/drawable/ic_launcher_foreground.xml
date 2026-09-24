@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Soft aura glow behind icon -->
+    <path
+        android:fillColor="#35FFFFFF"
+        android:pathData="M54,54m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+
+    <!-- Cute Zen Floating Cloud / Lotus Petal Base -->
+    <!-- Lotus Center Petal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 C58,44 65,56 54,69 C43,56 50,44 54,34 Z" />
+
+    <!-- Left Petal -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M50,46 C40,43 32,54 44,66 C48,63 50,56 50,46 Z" />
+
+    <!-- Right Petal -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M58,46 C68,43 76,54 64,66 C60,63 58,56 58,46 Z" />
+
+    <!-- Base Crescent Ripple -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,67 C44,72 64,72 70,67 C66,74 42,74 38,67 Z" />
+
+    <!-- Sparkle Stars -->
+    <!-- Top-left sparkle -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M36,37 L37.5,41 L41.5,42.5 L37.5,44 L36,48 L34.5,44 L30.5,42.5 L34.5,41 Z" />
+
+    <!-- Top-right sparkle -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M72,34 L73,37 L76,38 L73,39 L72,42 L71,39 L68,38 L71,37 Z" />
+
+    <!-- Cute calming smile face on the lotus core -->
+    <!-- Eyes -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M50.5,55 A1.5,1.5 0 0 1 50.5,58 A1.5,1.5 0 0 1 50.5,55 Z" />
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M57.5,55 A1.5,1.5 0 0 1 57.5,58 A1.5,1.5 0 0 1 57.5,55 Z" />
+    <!-- Cheerful gentle smile -->
+    <path
+        android:strokeColor="#4F46E5"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M52,60 Q54,62.5 56,60" />
+    <!-- Soft blush -->
+    <path
+        android:fillColor="#FFB4D6"
+        android:pathData="M48,58 A1.5,1 0 0 1 48,60 A1.5,1 0 0 1 48,58 Z" />
+    <path
+        android:fillColor="#FFB4D6"
+        android:pathData="M60,58 A1.5,1 0 0 1 60,60 A1.5,1 0 0 1 60,58 Z" />
+
+    <!-- Calming Water Drop / Floating Bubble at bottom -->
+    <path
+        android:fillColor="#BAE6FD"
+        android:pathData="M54,77 C55.5,77 56.5,75.5 54,73 C51.5,75.5 52.5,77 54,77 Z" />
+</vector>

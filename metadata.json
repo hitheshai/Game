@@ -1,0 +1,7 @@
+{
+  "name": "ZenPlay",
+  "description": "A colorful, engaging stress-relief mobile game app with relax mode, mini-games, puzzles, creative sandbox, and healthy habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
